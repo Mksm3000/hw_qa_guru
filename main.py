@@ -1,6 +1,7 @@
 
 def print_it(text):
     print(f'You print text - {text}')
+    print("Good job!")
 
 
 if __name__ == '__main__':
