@@ -1,5 +1,6 @@
 
 def print_it(text):
+    print('Congratulations!')
     print(f'You print text - {text}')
 
 
